@@ -3,8 +3,8 @@
 
     * somente 2 valores
 
-      True == Verdadeiro
-      False == Falso
+      true == Verdadeiro
+      false == Falso
 
 */
 
